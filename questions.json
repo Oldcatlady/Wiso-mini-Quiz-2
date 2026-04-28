@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "question": "Welche Marktform ist gegeben, wenn viele Bauern ihre Zuckerrüben an eine Zuckerfabrik liefern?",
+    "options": {
+      "A": "Zweiseitiges Oligopol",
+      "B": "Angebotsmonopol",
+      "C": "Polypol",
+      "D": "Nachfragemonopol",
+      "E": "Angebotsoligopol"
+    },
+    "correctAnswer": "D",
+    "explanation": "Viele Anbieter treffen auf einen Nachfrager → Nachfragemonopol."
+  },
+  {
+    "id": 2,
+    "question": "Welche Marktform bezeichnet man als vollkommene Konkurrenz?",
+    "options": {
+      "A": "Angebotsoligopol",
+      "B": "Polypol",
+      "C": "Zweiseitiges Oligopol",
+      "D": "Angebotsmonopol",
+      "E": "Nachfragemonopol"
+    },
+    "correctAnswer": "B",
+    "explanation": "Ein Polypol mit vielen Anbietern und Nachfragern entspricht vollkommener Konkurrenz."
+  },
+  {
+    "id": 3,
+    "question": "Welche Aussage zur angebotenen Menge eines Gutes trifft zu?",
+    "options": {
+      "A": "Kein Einfluss des Preises",
+      "B": "Je höher der Preis, desto höher das Angebot",
+      "C": "Mehr Angebot → niedriger Preis",
+      "D": "Je höher der Preis, desto niedriger das Angebot",
+      "E": "Weniger Angebot → höherer Preis"
+    },
+    "correctAnswer": "B",
+    "explanation": "Mit steigendem Preis steigt die Angebotsmenge."
+  },
+  {
+    "id": 4,
+    "question": "Welche Aussage zur Gleichgewichtsmenge/-preis trifft zu?",
+    "options": {
+      "A": "30 Stück; 30€",
+      "B": "20 Stück; 50€",
+      "C": "Absatz 2500 Stück",
+      "D": "40 Stück; 30€",
+      "E": "Absatz 50 Stück"
+    },
+    "correctAnswer": "E",
+    "explanation": "Laut Grafik liegt die Gleichgewichtsmenge bei 50 Stück."
+  },
+  {
+    "id": 5,
+    "question": "Wie hoch ist die Produzentenrente pro Stück bei 40 Stück und 40€?",
+    "options": {
+      "A": "30€",
+      "B": "50€",
+      "C": "40€",
+      "D": "10€",
+      "E": "20€"
+    },
+    "correctAnswer": "D",
+    "explanation": "Differenz zwischen Preis und Mindestpreis ergibt 10€."
+  },
+  {
+    "id": 6,
+    "question": "Welche Bedingung des unvollkommenen Marktes liegt vor?",
+    "options": {
+      "A": "persönliche Präferenz",
+      "B": "räumliche Präferenz",
+      "C": "Vielfalt",
+      "D": "fehlende Transparenz",
+      "E": "zeitliche Präferenz"
+    },
+    "correctAnswer": "A",
+    "explanation": "Kauf trotz höherem Preis = persönliche Präferenz."
+  },
+  {
+    "id": 7,
+    "question": "Wie hoch ist der Umsatz im Gleichgewicht?",
+    "options": {
+      "A": "2500€"
+    },
+    "correctAnswer": "A",
+    "explanation": "Preis × Menge = 2.500€."
+  },
+  {
+    "id": 8,
+    "question": "Was erzielt ein Anbieter bei höherem Preis als kalkuliert?",
+    "options": {
+      "A": "Produzentendividende",
+      "B": "Produzentenrente",
+      "C": "Konsumentendividende",
+      "D": "Konsumentenrente",
+      "E": "Marktgleichgewicht"
+    },
+    "correctAnswer": "B",
+    "explanation": "Zusätzlicher Gewinn = Produzentenrente."
+  },
+  {
+    "id": 9,
+    "question": "Welche Aussage trifft auf ein Sättigungsgut zu?",
+    "options": {
+      "A": "Konsum sinkt Nachfrage",
+      "B": "kein Einfluss",
+      "C": "Konsum steigt Nachfrage",
+      "D": "weniger Konsum → mehr Nachfrage",
+      "E": "kein Einfluss generell"
+    },
+    "correctAnswer": "C",
+    "explanation": "Mehr Einkommen → mehr Nachfrage."
+  },
+  {
+    "id": 10,
+    "question": "Was erzielt ein Nachfrager bei günstigerem Preis?",
+    "options": {
+      "A": "Produzentendividende",
+      "B": "Konsumentendividende",
+      "C": "Produzentenrente",
+      "D": "Marktgleichgewicht",
+      "E": "Konsumentenrente"
+    },
+    "correctAnswer": "E",
+    "explanation": "Vorteil für Käufer = Konsumentenrente."
+  }
+]
